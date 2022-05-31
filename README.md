@@ -2,7 +2,7 @@
 
 My project on data vizualization focuses on the correlation between different aspects
 of countries. The main focus of this work is around the literacy levels and
-the internet use: their correlation, connection with other economical aspects and socail
+the internet use: their correlation, connection with other economical aspects and social
 implications of the findings.
 
 Dataset
